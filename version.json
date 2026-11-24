@@ -2,8 +2,8 @@
   "version": "3.2.0",
   "title": "Fixify v3.2.0 — Auto-Update & Cache Ringan",
   "apkUrl": "https://github.com/riantosee/fixify/releases/download/v3.2.0/Fixify-v3.2.0.apk",
-  "releaseUrl": "https://github.com/riantosee/fixify/releases/latest",
-  "fileSizeBytes": 0,
+  "releaseUrl": "https://github.com/riantosee/fixify/releases/tag/v3.2.0",
+  "fileSizeBytes": 77384377,
   "forceUpdate": false,
   "updatedAt": "2026-11-24T07:00:00Z",
   "changelog": [
