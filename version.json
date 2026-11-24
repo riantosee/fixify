@@ -1,0 +1,16 @@
+{
+  "version": "3.2.0",
+  "title": "Fixify v3.2.0 — Auto-Update & Cache Ringan",
+  "apkUrl": "https://github.com/riantosee/fixify/releases/download/v3.2.0/Fixify-v3.2.0.apk",
+  "releaseUrl": "https://github.com/riantosee/fixify/releases/latest",
+  "fileSizeBytes": 0,
+  "forceUpdate": false,
+  "updatedAt": "2026-11-24T07:00:00Z",
+  "changelog": [
+    "Auto-Update Detector otomatis memantau rilis terbaru dari github.com/riantosee/fixify.",
+    "Pendaftaran akun terbuka tanpa kode undangan + pesan validasi yang jelas.",
+    "Sistem cache ringan API & cache audio setiap lagu (auto-LRU maks. 120 MB / 30 lagu).",
+    "Fixify Stereo Studio DSP (Stereo Wide HD, 3D Spatial, Deep Bass, Crystal Vocal).",
+    "Tab Komunitas: Obrolan Live, Berbagi Lagu, Playlist Bersama & Role (DEV / ADMIN / MEMBER)."
+  ]
+}
