@@ -1,16 +1,15 @@
 {
-  "version": "3.2.0",
-  "title": "Fixify v3.2.0 — Auto-Update & Cache Ringan",
-  "apkUrl": "https://github.com/riantosee/fixify/releases/download/v3.2.0/Fixify-v3.2.0.apk",
-  "releaseUrl": "https://github.com/riantosee/fixify/releases/tag/v3.2.0",
-  "fileSizeBytes": 77384377,
+  "version": "3.2.1",
+  "title": "Fixify v3.2.1 — Streaming Cepat & Kontrol Lockscreen Lengkap",
+  "apkUrl": "https://github.com/riantosee/fixify/releases/download/v3.2.1/Fixify-v3.2.1.apk",
+  "releaseUrl": "https://github.com/riantosee/fixify/releases/tag/v3.2.1",
+  "fileSizeBytes": 77389893,
   "forceUpdate": false,
-  "updatedAt": "2026-11-24T07:00:00Z",
+  "updatedAt": "2026-11-25T16:26:00Z",
   "changelog": [
-    "Auto-Update Detector otomatis memantau rilis terbaru dari github.com/riantosee/fixify.",
-    "Pendaftaran akun terbuka tanpa kode undangan + pesan validasi yang jelas.",
-    "Sistem cache ringan API & cache audio setiap lagu (auto-LRU maks. 120 MB / 30 lagu).",
-    "Fixify Stereo Studio DSP (Stereo Wide HD, 3D Spatial, Deep Bass, Crystal Vocal).",
-    "Tab Komunitas: Obrolan Live, Berbagi Lagu, Playlist Bersama & Role (DEV / ADMIN / MEMBER)."
+    "Streaming Stereo Progresif (5x lebih cepat mulai diputar tanpa tunggu konversi penuh).",
+    "Cache lokal bertahap satu per satu (baru disimpan setelah lagu diputar lancar 20 detik, bebas rebutan bandwidth).",
+    "Kontrol Notifikasi & Lockscreen Android lengkap: Sebelumnya (|<), Play/Pause (||), Maju/Next Track (>|), & Loop native latar belakang.",
+    "Playlist bawaan tren baru dengan cover kustom: Phonk, DJ Viral, Pop Indo Galau, Top Pop, Hip-Hop/Trap, Anime/J-Pop, Lo-Fi, K-Pop, & EDM."
   ]
 }
